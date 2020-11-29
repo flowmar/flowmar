@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my Bachelor's Degree in Software Development, The Cloud Developer Nanodegree through Udacity and working at Eli Henry as a Web Developer.
+- 🌱 I’m currently learning about Cloud Development: AWS, Docker and Kubernetes, Design: Vector Graphics with Affinity Designer, School: a course called Technical Communication.
+- 💬 Ask me about ...
+- 📫 How to reach me: My email address for all dev-related things is - omarimamdev@gmail.com
+- 😄 Pronouns: He, Him
+- ⚡ Fun facts: I love dancing, making choreography, editing music videos and am a flow artist (My main prop is a hoop, and the fact that I am a flow artist is where my nickname "flowmar" came from).
