@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my Bachelor's Degree in Software Development, The Cloud Developer Nanodegree through Udacity and working at Eli Henry as a Web Developer.
-- 🌱 I’m currently learning about Cloud Development: AWS, Docker and Kubernetes, Design: Vector Graphics with Affinity Designer, School: Finishing up a C++ class.
+- 🔭 I’m currently working on my Bachelor's Degree in Software Development, and working at Eli Henry as a Web Developer.
+- 🌱 I’m currently learning about Cloud Development: AWS, Docker and Kubernetes, Design: Vector Graphics with Affinity Designer, School: Finishing up a C++ class. I'm a nerd. So of course, in true nerd fashion, I'm learning about how to create blockchain applications in my spare time. 
 - 💬 Ask me about ...
 - 📫 How to reach me: My email address for all dev-related things is - omarimamdev@gmail.com
 - 😄 Pronouns: He, Him
