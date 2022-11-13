@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my Bachelor's Degree in Software Development, and working at Eli Henry as a Web Developer.
-- 🌱 I’m currently learning about... Design: Vector Graphics with Affinity Designer, School: Software II - Adv. Java 
-- 💬 I've started writing articles, poetry and short stories more often on Medium. It's cathartic, and it's fun to be able to create worlds where you decide everything that happens. It's kind of like building software. =)
+- 🔭 I’m currently working on the Data Integration Team for Orion at NASA (Artemis), at Eli Henry as a Full Stack Developer, and on my Bachelor's Degree in Software Development at Western Governors University. I'll finally be graduating in June of 2023!
+- 🌱 I’m currently learning about... Mobile Application Development (Android Applications) with Java and (soon) Kotlin, Advanced Data Management with SQL, p5.js (animation with Javascript) and Affinity Designer, Photo and Publisher.
+- 💬 Ask me about my final project for school: Symbiosis. It's going to be an application and podcast dedicated to spreading knowledge about mental health ailments as well as providing a platform for people to be able to help each other... because the worst thing I felt when I was dealing with my mental health issues when I was younger was that I was completely alone. I hope to educate users and listeners about various mental health ailments that their loved ones may be going through that they might not fully understand. People helping other people. Hence, the name 'Symbiosis'.
 - 📫 How to reach me: My email address for all dev-related things is - omarimamdev@gmail.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun facts: I love dancing, making choreography, editing music videos and am a flow artist (My main prop is a hoop, and the fact that I am a flow artist is where my nickname "flowmar" came from).
+- ⚡ Fun facts: I love dancing, making choreography, editing music videos and am a flow artist (My main prop is a hoop, and the fact that I am a flow artist is where my nickname "flowmar" came from). I actually got into coding because my friend and I started a small business making hoops to sell to other people. We wanted to start selling them online, so I decided to create a website for us because "MySpace wasn't that hard."
 
 Instagram: <a href="https://instagram.com/flowmarhoops">@flowmarhoops</a>
 Medium: <a href="https://flowmar.medium.com">@flowmar</a>
 LinkedIn: <a href="https://linkedin.com/in/flowmar">@flowmar</a>
+YouTube: <a href="https://youtube.com/@flowmarhoops">@flowmarhoops</a>
