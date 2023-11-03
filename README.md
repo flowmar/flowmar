@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on the Data Integration Team for Orion at NASA (Artemis), at Eli Henry as a Full Stack Developer, and on my Bachelor's Degree in Software Development at Western Governors University. I'll finally be graduating in June of 2023!
-- 🌱 I’m currently learning about... Mobile Application Development (Android Applications) with Java and (soon) Kotlin, Advanced Data Management with SQL, p5.js (animation with Javascript) and Affinity Designer, Photo and Publisher.
+- 🔭 I’m currently working on the Data Integration Team for Orion at NASA (Artemis),and finishing up my bachelor's degree in Software Development at Western Governors University. 
+- 🌱 I’m currently learning about... Building Android applications with Java, as well as learning Kotlin so that I can take advantage of Kotlin Multiplatform. 
 - 💬 Ask me about my final project for school: Symbiosis. It's going to be an application and podcast dedicated to spreading knowledge about mental health ailments as well as providing a platform for people to be able to help each other... because the worst thing I felt when I was dealing with my mental health issues when I was younger was that I was completely alone. I hope to educate users and listeners about various mental health ailments that their loved ones may be going through that they might not fully understand. People helping other people. Hence, the name 'Symbiosis'.
 - 📫 How to reach me: My email address for all dev-related things is - omarimamdev@gmail.com
 - 😄 Pronouns: He, Him
